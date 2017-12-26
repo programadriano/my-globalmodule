@@ -1,0 +1,13 @@
+{
+  "name": "my-module",
+  "version": "1.0.0",
+  "description": "Create a simple global module with Nodejs",
+  "main": "./lib/index.js",
+  "bin": {
+    "my-module": "bin/myfirstmodule.js"
+  },
+  "keywords": [],
+  "author": "Thiago da Silva Adriano",
+  "license": "ISC",
+  "preferGlobal": "true"
+}
